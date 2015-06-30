@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/double/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/double/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/double/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/double/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/modular" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/oauth2-vanilla/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/oauth2-vanilla/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/oauth2-vanilla/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/proxy/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/proxy/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/single" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/spring-session/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/spring-session/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/vanilla/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-angular-master/vanilla/ui" charset="UTF-8" />
+  </component>
+</project>

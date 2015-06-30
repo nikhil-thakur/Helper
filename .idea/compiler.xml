@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="basic" />
+        <module name="double-admin" />
+        <module name="double-gateway" />
+        <module name="double-ui" />
+        <module name="modular" />
+        <module name="oauth2-authserver" />
+        <module name="oauth2-ui" />
+        <module name="oauth2-vanilla-authserver" />
+        <module name="oauth2-vanilla-ui" />
+        <module name="proxy-ui" />
+        <module name="single" />
+        <module name="spring-session-ui" />
+        <module name="vanilla-ui" />
+      </profile>
+      <profile default="false" name="Annotation profile for vanilla-resource" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="vanilla-resource" />
+      </profile>
+      <profile default="false" name="Annotation profile for proxy-resource" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="proxy-resource" />
+      </profile>
+      <profile default="false" name="Annotation profile for oauth2-resource" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="oauth2-resource" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-session-resource" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-session-resource" />
+      </profile>
+      <profile default="false" name="Annotation profile for double-resource" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="double-resource" />
+      </profile>
+      <profile default="false" name="Annotation profile for oauth2-vanilla-resource" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="oauth2-vanilla-resource" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic" target="1.7" />
+      <module name="double-admin" target="1.7" />
+      <module name="double-gateway" target="1.7" />
+      <module name="double-resource" target="1.7" />
+      <module name="double-ui" target="1.7" />
+      <module name="modular" target="1.7" />
+      <module name="oauth2-authserver" target="1.7" />
+      <module name="oauth2-resource" target="1.7" />
+      <module name="oauth2-ui" target="1.7" />
+      <module name="oauth2-vanilla-authserver" target="1.7" />
+      <module name="oauth2-vanilla-resource" target="1.7" />
+      <module name="oauth2-vanilla-ui" target="1.7" />
+      <module name="pairs-double" target="1.5" />
+      <module name="pairs-oauth2" target="1.5" />
+      <module name="pairs-oauth2-vanilla" target="1.5" />
+      <module name="pairs-proxy" target="1.5" />
+      <module name="pairs-spring-session" target="1.5" />
+      <module name="pairs-vanilla" target="1.5" />
+      <module name="proxy-resource" target="1.7" />
+      <module name="proxy-ui" target="1.7" />
+      <module name="single" target="1.7" />
+      <module name="single-page-security" target="1.5" />
+      <module name="spring-session-resource" target="1.7" />
+      <module name="spring-session-ui" target="1.7" />
+      <module name="vanilla-resource" target="1.7" />
+      <module name="vanilla-ui" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
