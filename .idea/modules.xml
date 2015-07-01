@@ -24,7 +24,6 @@
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/proxy/resource/proxy-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/proxy/resource/proxy-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/proxy/ui/proxy-ui.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/proxy/ui/proxy-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/single/single.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/single/single.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/single-page-security.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/single-page-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/spring-session/resource/spring-session-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/spring-session/resource/spring-session-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/spring-session/ui/spring-session-ui.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/spring-session/ui/spring-session-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/vanilla/resource/vanilla-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/vanilla/resource/vanilla-resource.iml" />
