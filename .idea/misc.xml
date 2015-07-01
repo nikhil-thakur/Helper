@@ -7,11 +7,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-security-angular-master/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/basic/pom.xml" />
+        <option value="$PROJECT_DIR$/double/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2-vanilla/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/pom.xml" />
         <option value="$PROJECT_DIR$/spring-security-angular-master/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-session/pom.xml" />
+        <option value="$PROJECT_DIR$/vanilla/pom.xml" />
       </set>
     </option>
   </component>

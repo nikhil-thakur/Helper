@@ -22,61 +22,44 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="basic" />
-        <module name="double-admin" />
-        <module name="double-gateway" />
-        <module name="double-ui" />
         <module name="modular" />
-        <module name="oauth2-authserver" />
-        <module name="oauth2-ui" />
-        <module name="oauth2-vanilla-authserver" />
-        <module name="oauth2-vanilla-ui" />
-        <module name="proxy-ui" />
         <module name="single" />
-        <module name="spring-session-ui" />
-        <module name="vanilla-ui" />
       </profile>
       <profile default="false" name="Annotation profile for vanilla-resource" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="vanilla-resource" />
       </profile>
       <profile default="false" name="Annotation profile for proxy-resource" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="proxy-resource" />
       </profile>
       <profile default="false" name="Annotation profile for oauth2-resource" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="oauth2-resource" />
       </profile>
       <profile default="false" name="Annotation profile for spring-session-resource" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="spring-session-resource" />
       </profile>
       <profile default="false" name="Annotation profile for double-resource" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="double-resource" />
       </profile>
       <profile default="false" name="Annotation profile for oauth2-vanilla-resource" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="oauth2-vanilla-resource" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -85,6 +68,7 @@
       <module name="double-gateway" target="1.7" />
       <module name="double-resource" target="1.7" />
       <module name="double-ui" target="1.7" />
+      <module name="Helper" target="1.5" />
       <module name="modular" target="1.7" />
       <module name="oauth2-authserver" target="1.7" />
       <module name="oauth2-resource" target="1.7" />

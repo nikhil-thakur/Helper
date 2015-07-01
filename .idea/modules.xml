@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/gateway/double-gateway.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/gateway/double-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/resource/double-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/resource/double-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/ui/double-ui.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/ui/double-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modular/modular.iml" filepath="$PROJECT_DIR$/modular/modular.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/modular/modular.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/modular/modular.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/authserver/oauth2-authserver.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/oauth2/authserver/oauth2-authserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/resource/oauth2-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/oauth2/resource/oauth2-resource.iml" />
@@ -23,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/vanilla/pairs-vanilla.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/vanilla/pairs-vanilla.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/proxy/resource/proxy-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/proxy/resource/proxy-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/proxy/ui/proxy-ui.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/proxy/ui/proxy-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single/single.iml" filepath="$PROJECT_DIR$/single/single.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/single/single.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/single/single.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/spring-session/resource/spring-session-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/spring-session/resource/spring-session-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/spring-session/ui/spring-session-ui.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/spring-session/ui/spring-session-ui.iml" />
