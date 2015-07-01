@@ -27,8 +27,8 @@ public class Customer {
     @Override
     public String toString() {
         return String.format(
-                "Customer[id=%s, firstName='%s', lastName='%s']",
-                id, firstName, lastName);
+                "Customer[id=%s, firstName='%s', lastName='%s, address=%s, phoneNumber=%s']",
+                id, firstName, lastName, address.toString(), phoneNumber);
     }
 
 }
