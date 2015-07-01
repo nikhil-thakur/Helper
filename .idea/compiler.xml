@@ -28,7 +28,6 @@
         <module name="gs-rest-service" />
         <module name="gs-rest-service (1)" />
         <module name="gs-rest-service (2)" />
-        <module name="modular" />
         <module name="single" />
       </profile>
       <profile default="false" name="Annotation profile for vanilla-resource" enabled="true">

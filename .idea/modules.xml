@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/resource/double-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/resource/double-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/ui/double-ui.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/ui/double-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/../gs-consuming-rest/gs-accessing-data-mongodb.iml" filepath="$PROJECT_DIR$/../gs-consuming-rest/gs-accessing-data-mongodb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modular/modular.iml" filepath="$PROJECT_DIR$/modular/modular.iml" group="Helper and modules" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/modular/modular.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/modular/modular.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/authserver/oauth2-authserver.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/oauth2/authserver/oauth2-authserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/oauth2/resource/oauth2-resource.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/oauth2/resource/oauth2-resource.iml" />
