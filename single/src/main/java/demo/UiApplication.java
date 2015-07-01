@@ -31,5 +31,4 @@ public class UiApplication {
 		SpringApplication.run(UiApplication.class, args);
 	}
 
-
 }
