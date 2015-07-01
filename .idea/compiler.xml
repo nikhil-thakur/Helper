@@ -22,6 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="gs-accessing-data-mongodb" />
+        <module name="gs-consuming-rest (1)" />
+        <module name="gs-consuming-rest (2)" />
+        <module name="gs-rest-service" />
+        <module name="gs-rest-service (1)" />
+        <module name="gs-rest-service (2)" />
         <module name="modular" />
         <module name="single" />
       </profile>
@@ -68,6 +74,12 @@
       <module name="double-gateway" target="1.7" />
       <module name="double-resource" target="1.7" />
       <module name="double-ui" target="1.7" />
+      <module name="gs-accessing-data-mongodb" target="1.8" />
+      <module name="gs-consuming-rest (1)" target="1.8" />
+      <module name="gs-consuming-rest (2)" target="1.8" />
+      <module name="gs-rest-service" target="1.8" />
+      <module name="gs-rest-service (1)" target="1.8" />
+      <module name="gs-rest-service (2)" target="1.8" />
       <module name="Helper" target="1.5" />
       <module name="modular" target="1.7" />
       <module name="oauth2-authserver" target="1.7" />

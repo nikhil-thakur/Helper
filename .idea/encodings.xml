@@ -20,5 +20,10 @@
     <file url="file://$PROJECT_DIR$/spring-session/ui" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vanilla/resource" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vanilla/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gs-accessing-data-mongodb/complete" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gs-consuming-rest/complete" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gs-consuming-rest/initial" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gs-rest-service/complete" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gs-rest-service/initial" charset="UTF-8" />
   </component>
 </project>
