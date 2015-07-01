@@ -1,6 +1,5 @@
 package demo.model;
 
-import com.sun.jndi.cosnaming.IiopUrl;
 import org.springframework.data.annotation.Id;
 
 
@@ -14,10 +13,9 @@ public class Customer {
     private Address address;
     private String phoneNumber;
 
-
     public Customer() {}
 
-    public Customer(String firstName, String lastName) {
+    public Customer(String firstName, String lastName, Address address, String phoneNumber) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.address = address;
