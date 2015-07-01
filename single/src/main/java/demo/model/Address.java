@@ -4,12 +4,12 @@ package demo.model;
  * Created by nikhi_000 on 6/30/2015.
  */
 public class Address {
-    String flastNumber;
-    String apartmentName;
-    String areaName;
-    String city;
-    String zip;
-    String country;
+    private String flastNumber;
+    private String apartmentName;
+    private String areaName;
+    private String city;
+    private String zip;
+    private String country;
 
     public String getFlastNumber() {
         return flastNumber;
