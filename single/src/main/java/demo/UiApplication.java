@@ -27,6 +27,7 @@ public class UiApplication {
 		return model;
 	}
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(UiApplication.class, args);
 	}

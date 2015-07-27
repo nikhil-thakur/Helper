@@ -6,6 +6,10 @@ angular.module('hello', [ 'ngRoute' ]).config(function($routeProvider, $httpProv
 	}).when('/login', {
 		templateUrl : 'login.html',
 		controller : 'navigation'
+
+	}).when('/register/helper', {
+		templateUrl: 'helperRegistration.html',
+		controller: 'helperRegistration'
 	}).otherwise('/');
 
 	$httpProvider.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
@@ -76,4 +80,8 @@ angular.module('hello', [ 'ngRoute' ]).config(function($routeProvider, $httpProv
 	$http.get('/resource/').success(function(data) {
 		$scope.greeting = data;
 	})
-});
+}).controller('helperRegistration', function($scope,$http){
+			$http.post('/register/helper').success(function(data){
+				$scope.helper = data;
+			})
+		});

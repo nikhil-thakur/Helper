@@ -4,12 +4,14 @@ import demo.Dao.CustomerRepository;
 import demo.model.Customer;
 import demo.service.HelpService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.Collection;
 
 /**
  * Created by nikhi_000 on 6/30/2015.
  */
+@Service
 public class HelpServiceImpl implements HelpService {
     @Autowired
     CustomerRepository customerRepository;
