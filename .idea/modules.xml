@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Helper.iml" filepath="$PROJECT_DIR$/.idea/Helper.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/basic/basic.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/admin/double-admin.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/admin/double-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-angular-master/double/gateway/double-gateway.iml" filepath="$PROJECT_DIR$/spring-security-angular-master/double/gateway/double-gateway.iml" />
